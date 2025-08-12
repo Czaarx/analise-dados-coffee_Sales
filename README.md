@@ -1,4 +1,4 @@
-#  📊 Análise de Dados com o Dataset Coffee Sales
+#  📊 Projeto de Análise de Vendas: Dataset Coffee Sale
  
 
 Este projeto tem como objetivo estudar e praticar técnicas de análise de dados utilizando o dataset **Coffee Sales**, disponível no Kaggle.
@@ -30,6 +30,7 @@ O DataSet utilizado para o projeto foi [Coffee Sales](https://www.kaggle.com/dat
 
 
 
+
 ## 📌 Insights & Learnings
 
 ### 💸 Métodos de Pagamento
@@ -52,7 +53,12 @@ Baseado nos gráficos acima, é possivel ver que:
 ![Produtos Mais Vendidos](https://github.com/Czaarx/analise-dados-coffee_Sales/blob/main/graficos/10%20cafes%20mais%20vendidos.png?raw=true)
 ![Produtos Mais Rentáveis](https://github.com/Czaarx/analise-dados-coffee_Sales/blob/main/graficos/cafes%20mais%20rentaveis.png?raw=true)
 
-Nos gráficos acima, vemos a lista de produtos que então sendo mais vendidos na Cafeteria em comparação com os produtos mais rentaveis, sendo o Americano With Milk o mais vendido e o Latte o mais rentavel
+Os gráficos acima revelam uma distinção importante entre volume de vendas e rentabilidade dos produtos da cafeteria.
+
+O Americano With Milk é o café mais vendido, refletindo forte preferência dos clientes. No entanto, o Latte se destaca como o produto mais rentável, indicando que, apesar de vender menos, gera maior lucro por unidade.
+
+Essa diferença sugere oportunidades estratégicas, como promover produtos de maior margem ou ajustar preços para equilibrar volume e rentabilidade.
+
 
 
 
@@ -75,6 +81,20 @@ Baseado nessa informação podemos:
 ### Faturamento por dia da semana (Apenas Mês de Março)
 ![Faturamento por dia da semana](https://github.com/Czaarx/analise-dados-coffee_Sales/blob/main/graficos/faturamento%20dia%20da%20semana.png?raw=true)
 
----
+
 ### Faturamento de Março 2024 x 2025
 ![Mediana Métodos de Pagamento](https://github.com/Czaarx/analise-dados-coffee_Sales/blob/main/graficos/faturamento%20mes.png?raw=true)
+
+Ao comparar o faturamento do Mês de Março entre os anos de 2024 e 2025, podemos notar que houve uma queda de 16,67%, passando de aproximadamente R$12.000 para R$10.000.
+
+ Embora as segundas e Quartas do mês tenham apresentado um valor superior em 2025, os domingos, terças e sabados apresentam quedas significativas impactando o resultado geral do mês.
+
+---
+
+### 📘 Conclusão
+
+Como meu primeiro projeto após a Imersão Alura de Análise de Dados com Python, consegui relevar padrões que fazendo sentido e podem orientar decisões estratégias em ambientes cormerciais. 
+
+A partir do dataset Coffee Sales, foi possível identificar oportunidades de otimização em horários, produtos e métodos de pagamento. 
+
+O uso de ferramentas como Python, Pandas e Seaborn permitiu uma visualização clara e objetiva dos dados, tornando o processo analítico mais acessível e eficaz.
