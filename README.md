@@ -32,11 +32,11 @@ O DataSet utilizado para o projeto foi [Coffee Sales](https://www.kaggle.com/dat
 [Relatório da Análise](https://berry-lotus-177.notion.site/An-lise-Coffee-Sales-24dd906cf5c68028aa46f760cad45a92?pvs=73)
 
 ## 📌 Learnings
-Com esse projeto, consegui:
- Realizar Limpeza de dados em duas tabelas distintas.
- Aprendi a concatenar tabelas.
- Trabalhar com repositório local e remoto.
- Aplicar o conceito de data driven decision making. 
+ - Com esse projeto, consegui:
+ - Realizar Limpeza de dados em duas tabelas distintas.
+ - Aprendi a concatenar tabelas.
+ - Trabalhar com repositório local e remoto.
+ - Aplicar o conceito de data driven decision making. 
  
 
 
